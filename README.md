@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## PROJECT TOKO AVELABEL
+Project toko ini merupakan bagian dari saya untuk mengembangkan diri. Saya disini menggunakan framework Laravel 6, saya juga menggunakan beberapa api dimana ada RajaOngkir untuk mengecek biaya pengiriman barang dan juga MidTrans untuk pembayaran.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
