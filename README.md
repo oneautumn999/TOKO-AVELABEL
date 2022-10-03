@@ -9,7 +9,7 @@
 
 
 ## PROJECT TOKO AVELABEL
-Project toko ini merupakan bagian dari saya untuk mengembangkan diri. Saya disini menggunakan framework Laravel 6, saya juga menggunakan beberapa api dimana ada RajaOngkir untuk mengecek biaya pengiriman barang dan juga MidTrans untuk pembayaran.
+Project toko ini merupakan bagian dari saya untuk mengembangkan diri. Saya disini menggunakan framework Laravel 6, saya juga menggunakan beberapa api dimana ada RajaOngkir untuk mengecek biaya pengiriman barang dan juga MidTrans untuk pembayaran. Serta untuk memahami dari SDLC dalam mengembangkan suatu project.
 
 ## About Laravel
 
